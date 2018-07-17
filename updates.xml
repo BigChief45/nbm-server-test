@@ -40,8 +40,8 @@
     
 </module>
 
-<module codenamebase="com.elibro.AWSProvider" distribution="AWSProvider-1.0-SNAPSHOT.nbm" downloadsize="6512534" license="B2517D31" needsrestart="false" releasedate="2018/07/17" targetcluster="elibrocontentmanager">
-    <manifest OpenIDE-Module="com.elibro.AWSProvider" OpenIDE-Module-Display-Category="com.elibro" OpenIDE-Module-Implementation-Version="1.0-20180717" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.27.1, org.openide.util &gt; 9.7.1, org.netbeans.api.progress/1 &gt; 1.47.1, org.openide.awt &gt; 7.67.1, org.openide.util.ui &gt; 9.6.1, com.elibro.Domain &gt; 1.0, org.netbeans.modules.options.api/1 &gt; 1.45.1, org.openide.util.lookup &gt; 8.33.1" OpenIDE-Module-Name="AWSProvider" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0"/>
+<module codenamebase="com.elibro.AWSProvider" distribution="AWSProvider-2.0-SNAPSHOT.nbm" downloadsize="6512534" license="B2517D31" needsrestart="false" releasedate="2018/07/17" targetcluster="elibrocontentmanager">
+    <manifest OpenIDE-Module="com.elibro.AWSProvider" OpenIDE-Module-Display-Category="com.elibro" OpenIDE-Module-Implementation-Version="2.0-20180717" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.27.1, org.openide.util &gt; 9.7.1, org.netbeans.api.progress/1 &gt; 1.47.1, org.openide.awt &gt; 7.67.1, org.openide.util.ui &gt; 9.6.1, com.elibro.Domain &gt; 1.0, org.netbeans.modules.options.api/1 &gt; 1.45.1, org.openide.util.lookup &gt; 8.33.1" OpenIDE-Module-Name="AWSProvider" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="2.0"/>
     
 </module>
 
